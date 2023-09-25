@@ -1,0 +1,21 @@
+body{
+    padding: 30px;
+}
+.row-cols-sm-3{
+    text-align: center;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-img-top{
+    height:150px;
+    width: 200px;
+    margin-left: 25%;
+}
+h4{
+    background-color: black;
+    color: white;
+}
+.mb-4{
+    padding: 50px;
+    height: 700px;
+}
